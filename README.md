@@ -18,4 +18,4 @@ The points are assigned to each author according to the following schema:
 ### points decrease with time since last activity
 	- minus 1 point for every 6 month of inactivity
 
-Finally, a floor of 1 point is granted, so that there is a non-zero probability of being cited. See the example jupyther notebook for more details.
+Finally, a floor of 1 point is granted, so that there is a non-zero probability of being cited. See the [example jupyther notebook](./'Test Authorpicker.ipynb') for more details.

@@ -16,4 +16,4 @@ points following this schema:
 ### points decrease with time since last activity
 	- minus 1 point for every 6 month of inactivity
 
-###	a floor of 1 point is granted, so that there is a non-zero probability of being cited.
+Finally, a floor of 1 point is granted, so that there is a non-zero probability of being cited.

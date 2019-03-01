@@ -9,9 +9,9 @@ points following this schema:
 	- staff + 0
   
 ###	effort related points:
-  - lead gets + 2 point extra
+	- lead gets + 2 point extra
 	- 2 points for every completed projects
-  - 1 point for each useful tool made available on github.
+	- 1 point for each useful tool made available on github.
 
 ### points decrease with time since last activity
 	- minus 1 point for every 6 month of inactivity

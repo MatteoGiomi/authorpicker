@@ -110,7 +110,7 @@ class Eligibles:
 	"""
 	
 	# let's have our own random generator, so results will be reproducible
-	np.random.seed(42)
+	#np.random.seed(42)
 	my_choice = np.random.choice
 	
 	def __init__(self, contributors_def):
